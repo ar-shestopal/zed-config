@@ -1,0 +1,6 @@
+[
+  {
+    "label": "echo current file's path",
+    "command": "zed /Users/oshe/.config/zed/keymap.json"
+  }
+]
